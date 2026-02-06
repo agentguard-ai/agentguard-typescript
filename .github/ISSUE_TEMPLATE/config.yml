@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/agentguard-ai/tealtiger/discussions
+    about: Ask questions and discuss ideas (centralized in main repo)
+  - name: 📚 Documentation
+    url: https://github.com/agentguard-ai/tealtiger-sdk#readme
+    about: Read the TypeScript SDK documentation
+  - name: 🐍 Python SDK
+    url: https://github.com/agentguard-ai/tealtiger-python
+    about: Looking for the Python SDK?
+  - name: 🔒 Security Advisory
+    url: https://github.com/agentguard-ai/tealtiger-sdk/security/advisories/new
+    about: Report a security vulnerability privately
